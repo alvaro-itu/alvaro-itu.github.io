@@ -30,8 +30,33 @@ nav ul li a{
 nav ul li a:hover{
   font-weight: bold;
 }
+.u2{
+  display: inline-block;
+  list-style: none;
+  margin: 10px 20px;
+}
+.a2{
+  text-decoration: none;
+  color: #000;
+  font-weight: normal;
+}
 
 .detel{
   margin-left: 8%;
+  margin-top: 15%;
+}
+.about-content{
+  margin-left: 8%;
+  margin-top: 30%;
+  padding: 20px;
+}
+
+cite {
+    font-style: italic;
+    color: #555; /* Adjust the color as needed */
+}
+.detel2{
+  margin-left: 8%;
+  margin-right: 5%;
   margin-top: 15%;
 }
