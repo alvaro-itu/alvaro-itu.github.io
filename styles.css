@@ -43,12 +43,12 @@ nav ul li a:hover{
 
 .detel{
   margin-left: 8%;
-  margin-top: 15%;
+  margin-top: 5%;
 }
 .about-content{
   margin-left: 8%;
   margin-top: 30%;
-  padding: 20px;
+  padding: 10px;
 }
 
 cite {
@@ -59,4 +59,22 @@ cite {
   margin-left: 8%;
   margin-right: 5%;
   margin-top: 15%;
+}
+
+.heading-container {
+  display: flex; /* Display children side by side */
+  align-items: center; /* Vertically center the children */
+  padding: 0 0;
+  justify-content: space-between;
+}
+
+.heading-icon {
+  width: 310px;
+  height: 270px;
+  margin-right: 15%; /* Adjust the margin as needed */
+}
+.icon2 {
+  width: 600px;
+  height: 100px;
+  margin-left: 0%; /* Adjust the margin as needed */
 }
