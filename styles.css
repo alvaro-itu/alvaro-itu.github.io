@@ -30,6 +30,7 @@ nav ul li a{
 nav ul li a:hover{
   font-weight: bold;
 }
+
 .u2{
   display: inline-block;
   list-style: none;
@@ -39,6 +40,10 @@ nav ul li a:hover{
   text-decoration: none;
   color: #000;
   font-weight: normal;
+}
+
+nav ul li a2:hover{
+  font-weight: bold;
 }
 
 .detel{
