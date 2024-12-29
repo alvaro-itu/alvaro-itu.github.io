@@ -42,17 +42,13 @@ nav ul li a:hover{
   font-weight: normal;
 }
 
-nav ul li a2:hover{
-  font-weight: bold;
-}
-
 .detel{
   margin-left: 8%;
   margin-top: 5%;
 }
 .about-content{
   margin-left: 8%;
-  margin-top: 30%;
+  margin-top: 7%;
   padding: 10px;
 }
 
